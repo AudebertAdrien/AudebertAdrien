@@ -4,7 +4,7 @@
 - 🚀 I completed the core curriculum at 42 and am currently enrolled in the 2nd cycle, working toward an RNCP7.
 - 🎯 I am currently looking for a work-study position (apprenticeship) in **DevOps / Cloud / Infra / Obervability / Platform**.
 - 📄 **My CV** is available below for more details 👇
-- 📄 CV: [CV (PDF)](https://github.com/AudebertAdrien/AudebertAdrien/blob/main/Adrien_Audebert_DEVOPS_CV.pdf)
+- 📄 CV: [(PDF)](https://github.com/AudebertAdrien/AudebertAdrien/blob/main/Adrien_Audebert_DEVOPS_CV.pdf)
 
 <br>
 ---
