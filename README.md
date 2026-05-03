@@ -12,7 +12,7 @@
 
 - 📧 Email: aaudeber@student.42perpignan.fr
 - 💼 LinkedIn: www.linkedin.com/in/adrien-audebert
-- 📄 CV: [CV (PDF)]([(https://github.com/AudebertAdrien/AudebertAdrien/blob/main/Adrien_Audebert_DEVOPS_CV.pdf)])
+- 📄 CV: [CV (PDF)]((https://github.com/AudebertAdrien/AudebertAdrien/blob/main/Adrien_Audebert_DEVOPS_CV.pdf))
 
 <br>
 ---
