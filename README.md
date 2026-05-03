@@ -2,7 +2,7 @@
 
 - 👋 Hello, my name is Adrien, student at **42 (@42school)** focused on DevOps & Infrastructure.
 - 🚀 I completed the core curriculum at 42 and am currently enrolled in the 2nd cycle, working toward an RNCP7.
-- 🎯 I am currently looking for a work-study position (apprenticeship) in **DevOps / Cloud / Infra / Obervability / Platform**.
+- 🎯 I am currently looking for a work-study position (apprenticeship) in **DevOps / Cloud / Infra / Obervability **.
 - 📄 **My CV** is available below for more details 👇
 - 📄 CV: [(PDF)](https://github.com/AudebertAdrien/AudebertAdrien/blob/main/Adrien_Audebert_DEVOPS_CV.pdf)
 
@@ -52,12 +52,9 @@
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="32" alt="Ansible"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" alt="Terraform"/>
 > </p>
-> Azure / Bicep / Ansible / Terraform (learning)
+> Azure / Azure Bicep / Ansible / Terraform (learning)
 >
 > ---
->
-> **Kubernetes**
-> - Certified Kubernetes Application Developer (CKAD) — in progress...
 
 <br>
 <br>
