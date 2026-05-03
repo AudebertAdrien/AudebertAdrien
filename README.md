@@ -36,7 +36,7 @@
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" alt="Linux"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="32" alt="Vim"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" alt="Git"/>
->   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.wordmark.svg" width="32" alt="GitHub"/>
+>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" alt="Docker"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="32" alt="Kubernetes"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="32" alt="ArgoCD"/>
@@ -49,7 +49,7 @@
 > ### ☁️ Cloud & IaC
 > <p>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" alt="Azure" />
->   <img src="https://raw.githubusercontent.com/Azure/bicep/main/docs/protocol/Bicep.png" width="32" alt="Bicep"/>
+>   <img src="https://raw.githubusercontent.com/marvinquevedo/marvinquevedo/main/img/bicep.svg" width="32" alt="Bicep"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="32" alt="Ansible"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" alt="Terraform"/>
 > </p>
